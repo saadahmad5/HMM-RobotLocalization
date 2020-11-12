@@ -1,0 +1,11 @@
+D:\Documents\GitHub\RobotLocalization\RobotLocalization\bin\Debug\netcoreapp3.1\RobotLocalization.exe
+D:\Documents\GitHub\RobotLocalization\RobotLocalization\bin\Debug\netcoreapp3.1\RobotLocalization.deps.json
+D:\Documents\GitHub\RobotLocalization\RobotLocalization\bin\Debug\netcoreapp3.1\RobotLocalization.runtimeconfig.json
+D:\Documents\GitHub\RobotLocalization\RobotLocalization\bin\Debug\netcoreapp3.1\RobotLocalization.runtimeconfig.dev.json
+D:\Documents\GitHub\RobotLocalization\RobotLocalization\bin\Debug\netcoreapp3.1\RobotLocalization.dll
+D:\Documents\GitHub\RobotLocalization\RobotLocalization\bin\Debug\netcoreapp3.1\RobotLocalization.pdb
+D:\Documents\GitHub\RobotLocalization\RobotLocalization\obj\Debug\netcoreapp3.1\RobotLocalization.csprojAssemblyReference.cache
+D:\Documents\GitHub\RobotLocalization\RobotLocalization\obj\Debug\netcoreapp3.1\RobotLocalization.AssemblyInfoInputs.cache
+D:\Documents\GitHub\RobotLocalization\RobotLocalization\obj\Debug\netcoreapp3.1\RobotLocalization.AssemblyInfo.cs
+D:\Documents\GitHub\RobotLocalization\RobotLocalization\obj\Debug\netcoreapp3.1\RobotLocalization.dll
+D:\Documents\GitHub\RobotLocalization\RobotLocalization\obj\Debug\netcoreapp3.1\RobotLocalization.pdb
